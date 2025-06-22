@@ -1,0 +1,25 @@
+.image-wrapper {
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.animated-image {
+  width: calc(100% + 50px);
+  animation: scrollImage 5s linear forwards;
+  /* opacity: 0.9; */
+}
+
+@keyframes scrollImage {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50px);
+  }
+}
+
+.carousel-item {
+  transition: opacity 2s ease-in-out !important;
+}

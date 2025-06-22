@@ -1,0 +1,29 @@
+[
+  {
+    "category": "Ruang Tamu",
+    "categoryImage": "/homepage-products/ruang-tamu.jpg",
+    "products": [
+      { "id": 1, "name": "Sofa A", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/sofa.jpg" },
+      { "id": 2, "name": "Mini Table", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/meja-tamu.jpg" },
+      { "id": 3, "name": "Lamp", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/lampu-gantung.jpeg" }
+    ]
+  },
+  {
+    "category": "Kamar Tidur",
+    "categoryImage": "/homepage-products/kamar-tidur.jpeg",
+    "products": [
+      { "id": 4, "name": "Bed A", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/tempat-tidur.jpeg" },
+      { "id": 5, "name": "Make Up Table", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/meja-rias.jpeg" },
+      { "id": 6, "name": "Sleep Lamp", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/lampu-tidur.jpeg" }
+    ]
+  },
+  {
+    "category": "Dapur",
+    "categoryImage": "/homepage-products/dapur.jpg",
+    "products": [
+      { "id": 7, "name": "Kitchen Set A", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/dapur-set-1.jpg" },
+      { "id": 8, "name": "Kitchen Set B", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/dapur-set-2.jpg" },
+      { "id": 9, "name": "Dining Table", "description": "description of product", "price": "Rp.235.000", "image": "/homepage-products/meja-makan.jpeg" }
+    ]
+  }
+]
